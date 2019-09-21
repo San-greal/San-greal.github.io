@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "剑魄未改"
-  avatar           : "/images/698153.jpg"
+  avatar           : "698153.jpg"
   bio              : "Student"
   location         : "HangZhou"
   employer         :
@@ -103,13 +103,12 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
   vine             :
   weibo            :
   xing             :
