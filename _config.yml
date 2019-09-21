@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : ""
   googlescholar    : ""
-  email            :
+  email            : "zhaotengdu@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -107,7 +107,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : "997607625"
+  steam            : 
   tumblr           :
   vine             :
   weibo            :
@@ -308,3 +308,13 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# Gitalk
+gitalk:
+  enable: true    #是否开启Gitalk评论
+  clientID: baa3887d42bcf16e8b5e                            #生成的clientID
+  clientSecret: 5fa20662c9afcf64b8b4df48429169d71c0e1177    #生成的clientSecret
+  repo: San-greal.github.io    #仓库名称
+  owner: San-greal    #github用户名
+  admin: San-greal
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
