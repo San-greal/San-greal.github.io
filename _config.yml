@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "剑魄未改"
-  avatar           : "698153.jpg"
+  avatar           : "/images/698153.jpg"
   bio              : "Student"
   location         : "HangZhou"
   employer         :
