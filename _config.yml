@@ -7,21 +7,21 @@ url: "https://San-greal.github.io"
 
 
 # GitHub User settings
-username: Username
-github_username: github_username
-user_description: user_description
-user_title: user_title
-email: 
+username: San-greal
+github_username: San-greal
+user_description: San-greal
+user_title: San-greal
+email: zhaotengdu@gmail.com
 
 # Blog Author settings
-author:
+author: duzhaoteng
   name:            
   picture:        
-  email:           
+  email:           zhaotendu@gmail.com
   description:     
   twitter:
   facebook:
-  github:          
+  github:          https://github.com/San-greal
   linkedin:
   clustrmap:      
 
