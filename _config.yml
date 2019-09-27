@@ -64,7 +64,7 @@ defaults:
       numbering: true
       status: Completed
       protected: false
-      commentable: true
+      commentable: false
       rss: true
       numbering: true
 
